@@ -6,7 +6,7 @@
 #### 软件架构
 1. 后端：servlet
 2. 前端：三件套、JSP、EL、JSTL
-3. 数据库：MySql
+3. 数据库：MySQL
 
 
 #### 使用说明
